@@ -1,44 +1,48 @@
-# 👋 Hi, I'm Mahalakshmi Devarajulu
+# 👋 Hi, I'm Mahadevaraj
 
-🎯 **Aspiring Data Analyst** | 📊 **SQL | R | Tableau** | 🧠 Insight-Driven Problem Solver
-
-Welcome to my GitHub profile! I'm passionate about turning data into actionable insights that drive decision-making. I specialize in exploring, analyzing, and visualizing data to uncover trends and root causes in operational issues.
+I'm a Google-certified Data Analyst with 3+ years of experience in IT Support and IT Operations. I'm currently transitioning into **non-voice, analytics-focused roles** such as **Incident Analyst**, **Problem Manager**, or **ITSM Data Analyst**.
 
 ---
 
 ## 🔧 Skills & Tools
 
-- **Languages**: SQL, R, Python
-- **Data Visualization**: Tableau, ggplot2
-- **Database**: MySQL, PostgreSQL
-- **Data Wrangling**: dplyr, tidyr
-- **Reporting & Dashboards**: Tableau Public, R Markdown
-- **Version Control**: Git & GitHub
+- **Languages**: SQL, R
+- **Data Analysis**: dplyr, ggplot2, tidyr, lubridate
+- **Visualization**: Tableau, ggplot2
+- **IT Background**: ITIL, Incident Management, Root Cause Analysis
 
 ---
 
-## 📁 Featured Projects
+## 🧪 Projects
 
-### 🔍 Root Cause Analysis of Recurring Incidents
-A full-cycle analysis of IT incident data to identify patterns and recurring root causes using:
-- **SQL**: Extracted and joined incident and configuration data
-- **R**: Cleaned and visualized trends in incident frequency
-- **Tableau**: Interactive dashboard for operational stakeholders  
-👉 [View Project Repository](https://github.com/mahadevaraj96/root-cause-analysis-incidents)
+### 📌 [Root Cause Analysis of Recurring IT Incidents](https://github.com/Mahadevaraj96/root-cause-analysis-recurring-incidents)
+- Used SQL to extract incident logs
+- Performed time series & clustering analysis in R
+- Visualized top recurring incidents in Tableau
 
 ---
 
-## 📈 My Goals
-- Build a strong portfolio of real-world data analysis projects
-- Collaborate with other data enthusiasts
-- Land a data analyst role where I can help solve meaningful problems
+## 📈 Career Goals
+
+I’m looking for opportunities in:
+- 📊 Incident Analytics / IT Operations Analysis
+- 🔎 Root Cause Analysis (RCA)
+- 🧠 Data-Driven ITSM Strategy
 
 ---
 
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/mahalakshmi-devarajulu-543b61270/)
-- [Tableau Public](https://public.tableau.com/app/profile/mahalakshmi.devaraj/vizzes)
-- [Email](mailto:mahadevaraj96@gmail.com)
+## 📫 Let’s Connect
 
-Thanks for stopping by! 😊
+- 💼 LinkedIn: (https://www.linkedin.com/in/mahalakshmi-devarajulu-543b61270/)
+- 📧 Email: mahadevaraj96@gmail.com
+
+---
+
+## 📜 Certifications
+- Google Data Analytics Professional Certificate
+
+---
+
+*“Turning operational data into insights that prevent the next outage.”*
+
 
