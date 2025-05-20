@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mahadevaraj
+# 👋 Hi, I'm Mahalakshmi Devarajulu
 
 I'm a Google-certified Data Analyst with 3+ years of experience in IT Support and IT Operations. I'm currently transitioning into **non-voice, analytics-focused roles** such as **Incident Analyst**, **Problem Manager**, or **ITSM Data Analyst**.
 
